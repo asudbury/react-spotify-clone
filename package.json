@@ -9,7 +9,7 @@
     "@testing-library/user-event": "^14.6.1",
     "axios": "^1.7.9",
     "querystring": "^0.2.1",
-    "react": "^16.14.0",
+    "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-heartbeat": "^1.0.0",
     "react-loader-spinner": "^6.1.6",
